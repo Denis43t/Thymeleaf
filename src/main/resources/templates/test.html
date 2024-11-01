@@ -8,14 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-<h1 th:text="'Variable count: ' + ${queryParams.size()}"></h1>
-
-<ul>
-    <li th:each="queryParam: ${queryParams}">
-        <span th:text="${queryParam.key}"></span>
-        =
-        <span th:text="${queryParam.value}"></span>
-    </li>
-</ul>
+<h1 th:text="'Time is: ' + ${queryParams}"></h1>
 </body>
 </html>

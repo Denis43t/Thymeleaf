@@ -37,3 +37,19 @@ build/
 ### Mac OS ###
 .DS_Store
 /.smarttomcat
+/logs
+/conf
+src/main/webapp/conf/web.xml
+src/main/webapp/logs/catalina.2024-10-31.log
+src/main/webapp/logs/localhost.2024-10-31.log
+src/main/webapp/logs/localhost_access_log.2024-10-31.txt
+src/main/webapp/conf/tomcat-users.xsd
+src/main/webapp/conf/tomcat-users.xml
+src/main/webapp/conf/server.xml
+src/main/webapp/conf/logging.properties
+src/main/webapp/conf/jaspic-providers.xsd
+src/main/webapp/conf/jaspic-providers.xml
+src/main/webapp/conf/context.xml
+src/main/webapp/conf/Catalina/localhost/ROOT.xml
+src/main/webapp/conf/catalina.properties
+src/main/webapp/conf/catalina.policy
